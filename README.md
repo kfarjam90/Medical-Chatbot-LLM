@@ -5,7 +5,7 @@
 A Flask-based medical chatbot that uses Retrieval-Augmented Generation (RAG) to provide medical information and assistance. The chatbot leverages Pinecone for vector storage and Groq's LLM for generating responses
 ---
 
-### Demo Video
+### Demo
 
 [![Watch the demo video](image.png)]()
 
